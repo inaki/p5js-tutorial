@@ -1,5 +1,5 @@
 ### What is p5js and why?
-(P5js)[https://p5js.org/] is a library created by Lauren McCarthy, and was inspired by the popular Processing language and software. This language was designed specificaly for artists, designers, educators and beginners. The idea behind it was to create a friendly way to introduce programming to these people so they will be able to do programming with a more artistic approach.
+[P5js](https://p5js.org/) is a library created by Lauren McCarthy, and was inspired by the popular Processing language and software. This language was designed specificaly for artists, designers, educators and beginners. The idea behind it was to create a friendly way to introduce programming to these people so they will be able to do programming with a more artistic approach.
 
 ## Sketchbook Metaphor
 The sketchbook metaphor is a way to break the wall between technology and art. Using concepts that are familiar makes us feel confortable and helps us grasp the concepts more quickly. You'll see that the way to write code in p5js follows the common language used by art makers. And when I say "Art Makers" I refer to all of us, because we have been making art since kindergarden.
